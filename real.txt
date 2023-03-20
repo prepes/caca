@@ -2,3 +2,5 @@ haha this is soooooooooooo funny
 like unbelivalbe
 
 wowwee
+
+const r1 = await Users.find("Men");
