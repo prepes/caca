@@ -3,5 +3,4 @@ like unbelivalbe
 
 wowwee
 
-
-await Users.let("Men");
+const r1 = await Users.find("Men");
